@@ -1,5 +1,5 @@
 ---
-title: Graphic Design Readings
+title: meta-archives
 timezone: UTC
 collections:
   posts:
@@ -13,7 +13,7 @@ defaults:
     path: ''
   values:
     layout: default
-name: Graphic Design Readings
+name: meta-archives
 description:
 avatar:
 footer-links:
