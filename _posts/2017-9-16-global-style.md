@@ -1,9 +1,0 @@
----
-title: The Global Style
-author: Mr. Keedy
-type: <i class="fa fa-file-text" aria-hidden="true"></i>
-tags:
-- Style
-year: 2013
-link: PDF/the-global-style.pdf
----
