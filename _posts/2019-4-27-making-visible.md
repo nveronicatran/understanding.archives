@@ -1,5 +1,5 @@
 ---
-title: Making Data Matter
+title: Making Visible
 author: Timo Arnall
 type: <i class="fa fa-file-text" aria-hidden="true"></i>
 tags:
