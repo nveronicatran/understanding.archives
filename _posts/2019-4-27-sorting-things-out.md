@@ -1,5 +1,5 @@
 ---
-title: Sorting Things Out: Classification and Its Consequences
+title: Sorting Things Out - Classification and Its Consequences
 author:  Geoffrey C. Bowker, Susan Leigh Star
 type: <i class="fa fa-book" aria-hidden="true"></i>
 tags:
