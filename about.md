@@ -19,6 +19,6 @@ A collection of canonical, recommended, and the personal favorite texts about an
 <div class="bio">
 <h3>About</h3>
 <p>
-Forked from Jarrett Fuller.</p>
+test 3</p>
 
 </div>
