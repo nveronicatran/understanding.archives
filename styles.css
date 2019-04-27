@@ -7,19 +7,19 @@ a {
     text-decoration: none;
 }
 a:hover {
-    color: blue;
+    color: #000000;
 }
 body {
-    font-family: 'Exo 2', sans-serif;
-    font-size: 18px;
+    font-family: 'Times New Roman', serif;
+    font-size: 16px;
 }
 .clear {
   clear: both;
   display: block;
 }
 header {
-    width: 225px;
-    background-color: blue;
+    width: 200px;
+    background-color: #000000;
     height: 100vh;
     position: fixed;
     padding-top: 25px;
@@ -95,7 +95,7 @@ main h3 {
 */
 .info {
     width: 100%;
-    border-bottom: 1px solid blue;
+    border-bottom: 1px solid #000000;
     padding-left: 295px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -134,7 +134,7 @@ h3 {
     padding: 25px;
     padding-left: 300px;
     box-sizing: border-box;
-    border-bottom: 1px solid blue;
+    border-bottom: 1px solid #000000;
     float: right;
 }
 .icon {

@@ -1,2 +1,2 @@
-# Graphic-Design-Readings
-A collection of favorite graphic design readings
+# Archival Readings
+A collection of favorite archival readings
