@@ -1,5 +1,5 @@
 ---
-title: Walkscapes – Walking as an Aesthetic Practice, Anti-Walk
+title: Walkscapes: Walking as an Aesthetic Practice – Anti-Walk
 author:  Francesco Careri
 type: <i class="fa fa-external-link-square" aria-hidden="true"></i>
 tags:
