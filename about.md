@@ -6,7 +6,7 @@ layout: page
 A collection of canonical, recommended, and the personal favorite texts about and around cities, museums, and design.
 
 <div class="bio">
-<h3>About the site</h3>
+<h3>An MDEF research project about information and boxes of information.</h3>
 <p>test 1
     </p>
 </div>
