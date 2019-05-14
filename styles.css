@@ -1,4 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Chakra+Petch');
+@font-face {
+    font-family: CooperHewitt;
+    src: url(/assets/CooperHewitt-Light.otf);
+    src: url(/assets/CooperHewitt-Light.otf);
+
+}
+
 
 * {
     padding: 0px;
@@ -12,7 +18,7 @@ a:hover {
     color: #000000;
 }
 body {
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'CooperHewitt-Light', sans-serif;
     font-size: 14px;
 }
 .clear {

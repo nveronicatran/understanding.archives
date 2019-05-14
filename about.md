@@ -21,7 +21,7 @@ Reconfiguring spatial perception in the urban infosphere. A collection of person
 <div class="bio">
 <h3>About the Website</h3>
 <p>
-designing.archives is a repository used to contextualise the master thesis project. The site is built entirely with open-source and free tools. The site uses Jekyll, an open-source, static-site generator, and is hosted on Github. It’s set in Cooper Hewitt typeface licensed under the SIL Open Font License. The design is from Jarret Fuller's <a href="https://github.com/jarrettfuller/Graphic-Design-Readings">Graphic Design Readings</a>.
+designing.archives is a repository used to contextualise the master thesis project. The site is built entirely with open-source and free tools. The site uses Jekyll, an open-source, static-site generator, and is hosted on Github. It is set in Cooper Hewitt typeface licensed under the SIL Open Font License. The design is from Jarret Fuller's <a href="https://github.com/jarrettfuller/Graphic-Design-Readings">Graphic Design Readings</a>.
 
 </p>
 
