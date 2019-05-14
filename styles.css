@@ -1,8 +1,6 @@
 @font-face {
     font-family: CooperHewitt;
     src: url(/assets/CooperHewitt-Light.otf);
-    src: url(/assets/CooperHewitt-Light.otf);
-
 }
 
 
@@ -17,6 +15,7 @@ a {
 a:hover {
     color: #000000;
     color: rgba(0,0,0,0.5);
+    font-weight: normal;
 
 }
 body {
@@ -132,6 +131,7 @@ main h3 {
 }
 h3 {
     font-size: 28px;
+    font-weight: normal;
     padding-left: 0px;
     float: left;
     box-sizing: border-box;
