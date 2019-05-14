@@ -36,7 +36,7 @@ header {
     color: white;
 }
 header a {
-    color: white;
+    color: black;
 }
 header a:hover {
     border-bottom: 2px solid white;
@@ -118,7 +118,7 @@ main h3 {
 }
 .key li {
     float: left;
-    color: #grey;
+    color: grey;
     padding-right: 25px;
 }
 .key li i {
