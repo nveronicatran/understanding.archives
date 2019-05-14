@@ -1,5 +1,5 @@
 ---
-title: meta-archives
+title: designing.archives
 timezone: UTC
 collections:
   posts:
@@ -13,7 +13,7 @@ defaults:
     path: ''
   values:
     layout: default
-name: meta-archives
+name: designing.archives
 description:
 avatar:
 footer-links:

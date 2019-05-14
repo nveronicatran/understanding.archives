@@ -27,7 +27,7 @@ body {
 }
 header {
     width: 200px;
-    background-color: #000000;
+    background-color: #ffffff;
     height: 100vh;
     position: fixed;
     padding-top: 25px;
@@ -56,11 +56,11 @@ nav {
 }
 nav li {
     float: left;
-    border: 1px solid white;
+    border: 1px solid black;
     font-size: 14px;
     padding: 5px;
     margin: 3px;
-    color: white;
+    color: black;
 }
 nav .icon {
   display: none;
@@ -103,7 +103,7 @@ main h3 {
 */
 .info {
     width: 100%;
-    border-bottom: 1px solid #000000;
+    border-bottom: 1px solid #ffffff;
     padding-left: 295px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -119,7 +119,7 @@ main h3 {
 }
 .key li {
     float: left;
-    color: grey;
+    color: #e3e3e3;
     padding-right: 25px;
 }
 .key li i {
