@@ -11,11 +11,13 @@
     margin: 0px;
 }
 a {
-    color: rgba(0,0,0,0.5);
+    color: rgba(0,0,0,1);
     text-decoration: none;
 }
 a:hover {
     color: #000000;
+    color: rgba(0,0,0,0.5);
+
 }
 body {
     font-family: 'CooperHewitt-Light', sans-serif;
@@ -119,7 +121,7 @@ main h3 {
 }
 .key li {
     float: left;
-    color: grey;
+    color: black;
     padding-right: 25px;
 }
 .key li i {
