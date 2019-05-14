@@ -1,2 +1,4 @@
 # Archival Readings
-A collection of favorite archival readings
+A collection of favourite archival readings
+
+https://nveronicatran.github.io/designing.archives/

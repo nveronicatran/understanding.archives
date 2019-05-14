@@ -109,7 +109,6 @@ main h3 {
     padding-bottom: 15px;
     box-sizing: border-box;
     font-size: 13px;
-    text-transform: uppercase;
     display: flex;
 }
 .key {
@@ -119,7 +118,7 @@ main h3 {
 }
 .key li {
     float: left;
-    color: #e3e3e3;
+    color: #grey;
     padding-right: 25px;
 }
 .key li i {
