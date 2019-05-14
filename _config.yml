@@ -1,5 +1,5 @@
 ---
-title: designing.archives
+title: understanding.archives
 timezone: UTC
 collections:
   posts:
@@ -13,7 +13,7 @@ defaults:
     path: ''
   values:
     layout: default
-name: designing.archives
+name: understanding.archives
 description:
 avatar:
 footer-links:
