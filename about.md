@@ -15,12 +15,6 @@ Understanding Archives is a repository used to contextualise a master thesis pro
 </div>
 
 <div class="bio">
-<h3>About the Project</h3>
-<p>The project is about investigating the spatial perception in the urban infosphere. It aims to challenge perspectives on ubiquitous informational structures in the urban context, and ‘immaterial’ technology using cultural and material practices. Borrowing from the museum practice and distributing it amongst the urban landscape, it responds to the need of literacy in technology in today's society. The project hence focuses on addressing the physicality and sensorial elements of urban data - of sensemaking, in a time of information overload. 
-    </p>
-</div>
-
-<div class="bio">
 <h3>On Museums</h3>
 <p>Museums as institutions have stayed static as the world around it has radically shifted. They are spaces that aestheticize and embody the interaction between people and information. A ‘museum without walls’ is a phrase that dates back to Andre Malraux, and the potential of a distributed, internationalist museum ‘collection of collections’ becomes more possible now with digital technologies. What are the new ways to write our urban data and cultural history, and how can we equip people for that?
 
